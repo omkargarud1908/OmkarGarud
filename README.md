@@ -44,6 +44,7 @@
   <a href="https://www.linkedin.com/in/omkargarud1908/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://github.com/omkargarud1908" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
    <a href="https://www.instagram.com/plz_.ignore/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="[https://www.instagram.com/plz_.ignore/](https://huggingface.co/omkargarud)" target="blank"><img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://miro.medium.com/v2/resize:fit:1400/1*QKJivQ0XWksRgSq0_rMRAg.png)" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
